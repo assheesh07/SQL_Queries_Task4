@@ -1,12 +1,12 @@
 # SQL_Queries_Task4
 Dataset
-- **File Used**: `basket_details.csv`
-- **Description**: Contains transactional data of customers and their baskets.
+- File Used: basket_details.csv
+- Description: Contains transactional data of customers and their baskets.
 - Columns :
-  - customer_id`: Unique identifier for each customer.
-  - product_id`: Unique identifier for each product.
-  - basket_date`: Date when the transaction occurred (DD-MM-YYYY).
-  - basket_count`: Number of units bought per transaction.
+  - customer_id : Unique identifier for each customer.
+  - product_id : Unique identifier for each product.
+  - basket_date : Date when the transaction occurred (DD-MM-YYYY).
+  - basket_count : Number of units bought per transaction.
 
  Tools Used
 - MySQL Workbench
